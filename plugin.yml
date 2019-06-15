@@ -1,0 +1,5 @@
+name: pocketmine-plugin-template
+main: src\plugin\Main
+api: 3
+version: 0.1.0
+author: Your Name
