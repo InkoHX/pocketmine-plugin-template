@@ -1,0 +1,1 @@
+# pocketmine-plugin-template
